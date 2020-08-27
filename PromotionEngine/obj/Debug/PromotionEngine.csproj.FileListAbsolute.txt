@@ -1,0 +1,4 @@
+D:\PromotionEngine\PromotionEngine\bin\PromotionEngine.dll
+D:\PromotionEngine\PromotionEngine\bin\PromotionEngine.pdb
+D:\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.dll
+D:\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
